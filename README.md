@@ -1,15 +1,15 @@
 # crud
 
-“book”: {
+“yoga studio”: {
   "id": 1
-  “title”: <String>,
-  “author”: <String>,
-  “length”: <Integer>
+  “teachers”: <String>,
+  “time slots”: <String>,
+  “cancellation”: <Boolean>
 }
 
-“car”: {
+“classes”: {
   "id": 2
-  “model”: <String>,
-  “year”: <Integer>,
-  “brand”: <String>
+  “poses”: <String>,
+  “size”: <Number>,
+  “heated”: <Boolean>
 }
